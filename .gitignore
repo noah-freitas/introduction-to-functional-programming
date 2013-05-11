@@ -1,0 +1,5 @@
+# Build Stuff
+node_modules
+src-compiled
+spec
+
