@@ -1,0 +1,9 @@
+three = (x) --> 3
+
+three (3 + 4) => 3       (three)
+
+              => three 7 (+)
+	      => 3       (three)
+
+It can be reduced twice.
+
