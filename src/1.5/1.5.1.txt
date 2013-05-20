@@ -1,0 +1,3 @@
+isSquare x = true,  sqrt x * sqrt x is x
+             false, otherwise
+
