@@ -1,0 +1,32 @@
+(succ (pred (succ (pred (pred zero))))) => (succ (pred (pred zero))) (succ.1)
+                                        => (pred zero)               (succ.1)
+
+(add (succ (pred zero)) zero) => (succ (add (pred zero)) zero) (add.2)
+                              => (succ (pred (add zero)) zero) (add.3)
+                              => (add zero zero)               (succ.1)
+                              => zero                          (add.1)
+
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                                                                                                                     
+~                                                       
