@@ -1,0 +1,11 @@
+# f :: (num -> num) -> num
+f = (g) -> g 3
+
+# min :: num -> num -> num
+min = (x, y) -->
+  | x < y     => x
+  | otherwise => y
+
+# h :: (num -> num) -> (num -> num)
+h = (j) -> j
+
