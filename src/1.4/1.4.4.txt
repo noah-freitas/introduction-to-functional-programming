@@ -1,0 +1,6 @@
+# one :: a -> num
+
+# apply :: (a -> b) -> a -> b
+
+# compose :: (a -> b) -> (c -> a) -> c -> b
+
