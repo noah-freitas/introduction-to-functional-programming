@@ -1,0 +1,3 @@
+(+ (-x)) = subtract x
+  where subtract x y = y - x
+
