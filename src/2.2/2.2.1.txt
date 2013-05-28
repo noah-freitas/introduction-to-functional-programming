@@ -1,0 +1,5 @@
+(3 = --3) ^ True                         => True
+1 ^ 1 = 2                                => Type Error (`1` is not a Boolean)
+(1 < x ^ x < 100) V x = True V x = False => Type Error (`x` cannot be a Number and a Boolean)
+False = (1 < 3)                          => False
+
